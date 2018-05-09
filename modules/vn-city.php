@@ -11,7 +11,7 @@
  * @version 1.0.0
  *
  */
-class Listo_Vn_city implements Listo
+class Listo_Vn_City implements Listo
 {
     public function __construct()
     {
