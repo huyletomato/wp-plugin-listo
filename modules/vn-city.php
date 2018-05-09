@@ -19,11 +19,6 @@ class Listo_Vn_City implements Listo
 
     public static function items() {
         return array(
-            'ak' => _x( "Alaska", 'us_subdivisions', 'listo' ),
-            'al' => _x( "Alabama", 'us_subdivisions', 'listo' ),
-            'ar' => _x( "Arkansas", 'us_subdivisions', 'listo' ),
-        );
-        return array(
             '4' => _x('Hà Nội','vn_city','listo'),
             '8' => _x('Hồ Chí Minh','vn_city','listo'),
             '313' => _x('Hải Phòng','vn_city','listo'),
