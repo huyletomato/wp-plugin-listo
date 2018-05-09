@@ -33,6 +33,7 @@ class Listo_Manager {
 			'us_subdivisions' => 'Listo_US_Subdivisions',
 			'currencies' => 'Listo_Currencies',
 			'time_zones' => 'Listo_Time_Zones',
+			'vn_city' => 'Listo VN City',
 		);
 
 		return apply_filters( 'listo_list_types', $list_types );
